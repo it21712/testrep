@@ -15,7 +15,7 @@
     <name>dswardemo0</name>
     <description>dswardemo0</description>
     <properties>
-        <java.version>11</java.version>
+        <java.version>8</java.version>
     </properties>
     <dependencies>
         <dependency>
